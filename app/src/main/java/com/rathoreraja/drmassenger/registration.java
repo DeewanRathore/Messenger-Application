@@ -121,7 +121,13 @@ public class registration extends AppCompatActivity {
                                         }
                                     });
                                 }else {
-//                                    sdsa
+//
+                                    if (true) {
+
+                                    } else  {
+
+                                    }
+
 
 
                                     String status = "Hey I'm Using This Application";
