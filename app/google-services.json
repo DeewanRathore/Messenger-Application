@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19611338237",
+    "project_id": "drmassenger",
+    "storage_bucket": "drmassenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19611338237:android:1a0c8b88841075f8bdc594",
+        "android_client_info": {
+          "package_name": "com.rathoreraja.drmassenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qPdunWXdK40JHYFntpA4HD7p4-a4HGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
